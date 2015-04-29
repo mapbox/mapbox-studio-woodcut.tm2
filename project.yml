@@ -1,0 +1,30 @@
+_prefs: 
+  saveCenter: true
+_properties: {}
+attribution: Map data © OpenStreetMap contributors
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 142.7509
+  - -17.9631
+  - 7
+description: A woodcut inspired map for city streets.
+format: "png8:m=h:c=64"
+interactivity_layer: ''
+layers: null
+maxzoom: 21
+minzoom: 0
+name: Woodcut
+source: "mapbox:///mapbox.mapbox-streets-v6"
+styles: 
+  - style.mss
+  - roads.mss
+  - labels.mss
+  - adminlines.mss
+  - highway.mss
+  - label.mss
+  - parks.mss
+template: ''
